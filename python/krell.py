@@ -3,7 +3,7 @@
 #
 
 import rtmidi
-from time import sleepn
+from time import sleep
 from numpy import random
 
 #   Create MidiOut object
